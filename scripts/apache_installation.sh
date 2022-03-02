@@ -9,3 +9,6 @@ systemctl start apache
 systemctl status apache
 #check the process
 ps -ef | grep -i httpd
+
+echo "this is devloper-2"
+
